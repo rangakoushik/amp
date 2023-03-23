@@ -1,1 +1,1 @@
-importScripts('https://s3-eu-west-1.amazonaws.com/static.wizrocket.com/js/sw_webpush.js');
+self.importScripts('https://js.appboycdn.com/web-sdk/4.6/service-worker.js');
